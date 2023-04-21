@@ -8,8 +8,8 @@
     <body>
         <h1>Pagina Principal</h1>
         <ul>
-            <li>Inicio</li>
-            <li>Quienes somos</li>
+            <li><a href="index.jsp">Inicio</a></li>
+            <li><a href="quienes.jsp">Quienes Somos</a></li>
             <li>Servicios</li>
             <li>Portafolio</li>
             <li>Contactos</li>
